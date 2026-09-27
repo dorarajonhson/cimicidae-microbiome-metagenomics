@@ -1,0 +1,13 @@
+sample_id,pool,bugs_host,bugs_stage,sequence
+BBF_dna,BBF,bat_bug,female,DNA
+BBM_dna,BBM,bat_bug,male,DNA
+BBN_dna,BBN,bat_bug,nymph,DNA
+SBF_dna,SBF,swallow_bug,female,DNA
+SBM_dna,SBM,swallow_bug,male,DNA
+SBN_dna,SBN,swallow_bug,nymph,DNA
+BBF_rna,BBF,bat_bug,female,RNA
+BBM_rna,BBM,bat_bug,male,RNA
+BBN_rna,BBN,bat_bug,nymph,RNA
+SBF_rna,SBF,swallow_bug,female,RNA
+SBM_rna,SBM,swallow_bug,male,RNA
+SBN_rna,SBN,swallow_bug,nymph,RNA
