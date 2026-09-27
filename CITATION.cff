@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite it as below. The accompanying article is under review."
+title: "Cimicidae microbiome: DNA and RNA metagenomic analysis workflow for bat bugs and swallow bugs"
+authors:
+  - family-names: Rajonhson
+    given-names: Dora M.
+    orcid: "https://orcid.org/0000-0003-3247-4510"
+version: 1.0.0
+license: MIT

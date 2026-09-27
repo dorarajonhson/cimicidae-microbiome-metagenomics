@@ -1,0 +1,20 @@
+name: cimicidae-metagenomics
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - fastp=0.23.2
+  - kraken2
+  - bracken=3.1
+  - bwa=0.7.17
+  - samtools
+  - mothur=1.44.3
+  - r-base=4.3.1
+  - bioconductor-phyloseq=1.46.0
+  - r-vegan=2.6_4
+  - r-ggplot2
+  - r-tidyr
+  - r-dplyr
+  - r-rcolorbrewer
+  - r-rmarkdown
+  - r-knitr

@@ -1,0 +1,15 @@
+# raw and intermediate sequence data are in NCBI, not in this repository
+*.fq
+*.fastq
+*.fq.gz
+*.fastq.gz
+*.kraken
+*.bam
+*.bai
+*.sam
+results/
+*.html
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
